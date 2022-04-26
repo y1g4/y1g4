@@ -1,5 +1,6 @@
-### Hi there 👋
+### Hi there 👋 My name is Yiga Frank
 
+I am so enthusiastic about Tech and I strive at becoming a good software engineer in the world of computing and business operations. I have diverse skills as far as software development is concerned in these fields mobile and web, website development, artificial intelligence, product development
 <!--
 **y1g4/y1g4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
