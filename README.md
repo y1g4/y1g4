@@ -28,7 +28,7 @@ I am so enthusiastic about Tech and I strive at becoming a good software enginee
 
 
 ### Profile  
-- 🔭 I’m currently working on a mobile application  to exploit market for farmers in Uganda. This mobile application will be connecting farmers with agricultural sellers.  
+- 🔭 I’m currently working on a mobile application  to exploit market for farmers in Uganda. This mobile application will be connecting farmers with agricultural sellers directly.  
   
 
 - 🌱 I’m currently learning kotlin in android development  
