@@ -53,7 +53,7 @@ I am so enthusiastic about Tech and I strive at becoming a good software enginee
 - 📥📩 You can contact me at yfrank259@gmail.com  
   
 
-- 🗨️📞 You can call or chat with me on whats-app via https://wa.me/+256752189418
+- 🗨️📞 You can call or chat with me on whats-app  via https://wa.me/+256752189418
 
 
 </td></tr></table>  
