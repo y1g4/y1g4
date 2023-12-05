@@ -109,6 +109,7 @@ I am so enthusiastic about Tech and I strive at becoming a good software enginee
   
 
 <br/>  
+https://api.githubtrends.io/user/svg/y1g4/langs?time_range=one_year&theme=dark
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=y1g4&&style=flat-square)  
   
