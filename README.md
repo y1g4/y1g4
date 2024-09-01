@@ -28,19 +28,11 @@ I am so enthusiastic about Tech and I strive at becoming a good software enginee
 
 
 ### Profile  
-- 🔭 I’m currently working on a mobile application  to exploit market for farmers in Uganda. This mobile application will be connecting farmers with agricultural sellers directly 
-  
 
-- 🌱 I’m currently learning kotlin in android development  
-  
-
-- ❓ Ask me about anything related to  android programming  
-  
 
 - ⚡ Fun fact: I keep night shift switched on  most of the time  
   
 
-- 🇺🇬  I am based in Mbarara, Uganda  
 
 
 </td><td valign="top" width="50%">
